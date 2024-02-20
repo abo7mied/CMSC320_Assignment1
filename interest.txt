@@ -1,0 +1,2 @@
+Q) Why are you interested in taking CMSC 320?
+A) I was interested to take CMSC 320 for several reasons: completing a prerequisite, learning useful, practical skills such as SQL and Python libraries, semester-long hands-on experience, and a complement to purely theoretical courses.
